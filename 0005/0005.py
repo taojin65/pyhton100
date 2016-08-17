@@ -1,4 +1,5 @@
 #!/usr/bin/python
+<<<<<<< HEAD
 # -*- coding: UTF-8 -*- 
 
 import os
@@ -19,4 +20,3 @@ def image_sf(file, a = 100, b = 200):
 
 
 image_sf('touxiang.png')
-
